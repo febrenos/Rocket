@@ -1,0 +1,30 @@
+CREATE CÓDIGO
+ Visual Studio
+ Visual Studio Community
+ Sublime Text
+ Coderpen.io
+ codesandbox.io
+
+WEB
+ >URL: http s:// www.example.com.br
+ Uniform Resource Locator
+ Hipertext Tranfer Protocol Secure
+ mensagem é quebrada em pedaços(chunks)
+ 
+ >Comunicação através do protocolo TCP (Cliente / Servidor)
+ Client, dispositivo que solicitou o pedido / Browser
+ Servidor, dispositivo configurado a responder pedidos
+ TCP Transmission Control Protocol (Garente corretamente a trajetória)
+ 
+ >O endereço(domínio) é convertido em um IP(76.76.21.21) através do DNS
+ IP: Internet Protocol (endereçar dispositivo)
+ DNS: Doamin Name Servers
+ 
+ Pedido percorrendo diversos Proxies
+ Proxy: Moldem, roteador, outros computadores (função de encaminhar pacotes)
+ 
+ seu pedido chega ao servidor
+ Servidor analisa seu pedido e te da uma resposta, neste caso positiva
+ O caminho de volta é semelhante ao de ida, passando pela linha de comunicação que foi criada
+ O browser recebe pedaços e onta a tela do site para você
+ Esse processo é exeutado sempre para renderizar os códigos, arquivos, imagens...
